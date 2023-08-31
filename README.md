@@ -1,2 +1,5 @@
-# os232
-os232
+# OS232
+
+|| [TARBALL](SandBox/DaWanAnOnli.tar.xz) || [LOG](TXT/mylog.txt) || [GitHub](https://github.com/DaWanAnOnlil/os232/) ||
+
+#### REV 00: Thu 31 Aug 2023 18:00
