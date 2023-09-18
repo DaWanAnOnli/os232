@@ -6,17 +6,22 @@ permalink: LINKS/
 
 * [An introduction to the vi editor](https://www.redhat.com/sysadmin/introduction-vi-editor#:~:text=In%20Vi%2C%20write%20means%20save,any%20changes%20and%20exits%20Vi.) --- 
 An easy-to-read beginners' tutorial on vi, contains essential vi functions and shortcuts.
-This site is beneficial for those trying to figure out how to exit vi when first using it.
-<br>
-<hr>
+This site benefits those trying to figure out how to exit vi when first using it.
+
 
 * [Grep vs Awk vs Sed Commands in Linux](https://techviewleo.com/awk-vs-grep-vs-sed-commands-in-linux/) --- 
 A beginners' tutorial on the grep, awk, and sed commands.
 This site focuses on basic examples of how to use these commands instead of the theoretical concepts behind them
-<br>
-<hr>
+
 
 * [Vim](https://www.vim.org/) --- 
 Vim's official website. Vim is a text editor with many more functional & quality-of-life features than vi.
-<br>
-<hr>
+
+* [How to Use Grep Command in Linux Unix](https://www.cyberciti.biz/faq/howto-use-grep-command-in-linux-unix/#Saving_grep_output_to_a_file
+) a beneficial website that focuses of the grep command. Filled with practical examples, it is especially helpful in doing the SCELE scrap script.
+
+* [Unix Create a File Command](https://www.cyberciti.biz/faq/unix-create-file-from-terminal-window-shell-prompt/) A beginners website on how to create files in LINUX. This was helpful for me in creating the WEEK02.sh file in ~/RESULT/W02.
+
+* [How to Compare Two Files in Linux](https://linuxhint.com/compare-two-files-linux/) A very helpful website on the diff command. The diff command is used to compare the files outputSCRAP.txt and COMPAREoutputSCRAP.txt
+
+* [The 50 Most Popular Linux & Terminal Commands](https://www.youtube.com/watch?v=ZtqBQ68cfJc) An instructive video on the most common Linux commands. This is where I learnt how to use the sort command in sorting outputSCRAP.txt.
