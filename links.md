@@ -25,3 +25,5 @@ Vim's official website. Vim is a text editor with many more functional & quality
 * [How to Compare Two Files in Linux](https://linuxhint.com/compare-two-files-linux/) A very helpful website on the diff command. The diff command is used to compare the files outputSCRAP.txt and COMPAREoutputSCRAP.txt
 
 * [The 50 Most Popular Linux & Terminal Commands](https://www.youtube.com/watch?v=ZtqBQ68cfJc) An instructive video on the most common Linux commands. This is where I learnt how to use the sort command in sorting outputSCRAP.txt.
+
+* [Programming in the C language - [#3] Makefiles and Compiling](https://www.youtube.com/watch?v=zfuOcvYrhOs)
