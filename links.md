@@ -26,6 +26,6 @@ Vim's official website. Vim is a text editor with many more functional & quality
 
 * [The 50 Most Popular Linux & Terminal Commands](https://www.youtube.com/watch?v=ZtqBQ68cfJc) An instructive video on the most common Linux commands. This is where I learnt how to use the sort command in sorting outputSCRAP.txt.
 
-* [Programming in the C language - [#3] Makefiles and Compiling](https://www.youtube.com/watch?v=zfuOcvYrhOs)
+* [Programming in the C language - [#3] Makefiles and Compiling](https://www.youtube.com/watch?v=zfuOcvYrhOs) Video on compiling a hello world program in C, along with how to create makefile. Unfortunately, the final step is misleading as in the video the command to run the program did not include ./ before the executable file name.
 
-* [mkdir Command in Linux/Unix with Examples](https://www.javatpoint.com/linux-mkdir#:~:text=Just%20type%20%22mkdir%20%3Cdir%20name,to%20create%20a%20new%20directory.)
+* [mkdir Command in Linux/Unix with Examples](https://www.javatpoint.com/linux-mkdir#:~:text=Just%20type%20%22mkdir%20%3Cdir%20name,to%20create%20a%20new%20directory.) A tutorial on how to make directories in UNIX. Very helpful for WEEK03's 2nd Pop Quiz.
