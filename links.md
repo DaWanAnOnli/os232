@@ -29,3 +29,7 @@ Vim's official website. Vim is a text editor with many more functional & quality
 * [Programming in the C language - [#3] Makefiles and Compiling](https://www.youtube.com/watch?v=zfuOcvYrhOs) Video on compiling a hello world program in C, along with how to create makefile. Unfortunately, the final step is misleading as in the video the command to run the program did not include ./ before the executable file name.
 
 * [mkdir Command in Linux/Unix with Examples](https://www.javatpoint.com/linux-mkdir#:~:text=Just%20type%20%22mkdir%20%3Cdir%20name,to%20create%20a%20new%20directory.) A tutorial on how to make directories in UNIX. Very helpful for WEEK03's 2nd Pop Quiz.
+
+* [How to Copy a Directory in Linux](https://www.freecodecamp.org/news/how-to-copy-a-directory-in-linux-use-the-cp-command-to-copy-a-folder/) A quick turial on how to use the ```cp -r``` command to copy directories in Linux. Very helpful for WEEK03's 2nd Pop Quiz.
+
+* [Use SCP to move files to and from a VM](https://learn.microsoft.com/en-us/azure/virtual-machines/copy-files-to-vm-using-scp) A quick tutorial on how to copy files from host directory to VM. Very helpful for WEEK04's 2nd Pop Quiz.
