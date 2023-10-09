@@ -33,3 +33,9 @@ Vim's official website. Vim is a text editor with many more functional & quality
 * [How to Copy a Directory in Linux](https://www.freecodecamp.org/news/how-to-copy-a-directory-in-linux-use-the-cp-command-to-copy-a-folder/) A quick turial on how to use the ```cp -r``` command to copy directories in Linux. Very helpful for WEEK03's 2nd Pop Quiz.
 
 * [Use SCP to move files to and from a VM](https://learn.microsoft.com/en-us/azure/virtual-machines/copy-files-to-vm-using-scp) A quick tutorial on how to copy files from host directory to VM. Very helpful for WEEK04's 2nd Pop Quiz.
+
+* https://linuxhint.com/tar-folder-linux/
+
+* https://www.cyberciti.biz/faq/compress-the-whole-directory-using-xz-and-tar/
+
+* 
