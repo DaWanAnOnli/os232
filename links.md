@@ -34,8 +34,6 @@ Vim's official website. Vim is a text editor with many more functional & quality
 
 * [Use SCP to move files to and from a VM](https://learn.microsoft.com/en-us/azure/virtual-machines/copy-files-to-vm-using-scp) A quick tutorial on how to copy files from host directory to VM. Very helpful for WEEK04's 2nd Pop Quiz.
 
-* https://linuxhint.com/tar-folder-linux/
+* [How to tar a Folder in Linux?](https://linuxhint.com/tar-folder-linux/) A tutorial on how to compress folder into .tar file, and how to extract it. Very helpful for WEEK05's 2nd Pop Quiz.
 
-* https://www.cyberciti.biz/faq/compress-the-whole-directory-using-xz-and-tar/
-
-* 
+* [How to compress the whole directory using xz and tar in Linux](https://www.cyberciti.biz/faq/compress-the-whole-directory-using-xz-and-tar/) A tutorial on how to compress folder into xz file, and how to decompress it. Very helpful for WEEK05's 2nd Pop Quiz.
