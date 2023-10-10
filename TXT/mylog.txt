@@ -25,3 +25,8 @@ ZCZC W04 200 L02 CLASSROOM/ZOOM meetings related
 ZCZC W04 15 L24 Scripting in general.
 ZCZC W04 40 L43 TXT/myrank.tex related, including peer review.
 ZCZC W04 30 L40 TXT/ related in general.
+ZCZC W04 200 L02 CLASSROOM/ZOOM meetings related
+ZCZC W04 30 L43 TXT/myrank.tex related, including peer review.
+ZCZC W04 150 L15 Assignment #05
+ZCZC W04 60 L60 Install/Reinstall/Restore/Backup Desktop or Laptop
+ZCZC W04 60 L61 Install/Reinstall/Restore/Backup Virtual Box
