@@ -37,3 +37,7 @@ Vim's official website. Vim is a text editor with many more functional & quality
 * [How to tar a Folder in Linux?](https://linuxhint.com/tar-folder-linux/) A tutorial on how to compress folder into .tar file, and how to extract it. Very helpful for WEEK05's 2nd Pop Quiz.
 
 * [How to compress the whole directory using xz and tar in Linux](https://www.cyberciti.biz/faq/compress-the-whole-directory-using-xz-and-tar/) A tutorial on how to compress folder into xz file, and how to decompress it. Very helpful for WEEK05's 2nd Pop Quiz.
+
+* [fork(2) — Linux manual page](https://man7.org/linux/man-pages/man2/fork.2.html) The official documentation of the fork() function in Linux. Provides a thorough understanding of the function and more which are not covered in class specifically.
+
+* [Linux Process vs. Thread](https://www.baeldung.com/linux/process-vs-thread) An explanation on the differences between Linux's process and thread. Contains an overview on the inner-workings of threads and processes.
