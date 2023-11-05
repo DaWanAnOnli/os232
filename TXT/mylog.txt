@@ -30,3 +30,6 @@ ZCZC W04 30 L43 TXT/myrank.tex related, including peer review.
 ZCZC W04 150 L15 Assignment #05
 ZCZC W04 60 L60 Install/Reinstall/Restore/Backup Desktop or Laptop
 ZCZC W04 60 L61 Install/Reinstall/Restore/Backup Virtual Box
+ZCZC W06 200 L02 CLASSROOM/ZOOM meetings related
+ZCZC W06 150 L16 Assignment #06
+ZCZC W06 150 L05 Quiz related including studying
