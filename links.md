@@ -41,3 +41,8 @@ Vim's official website. Vim is a text editor with many more functional & quality
 * [fork(2) — Linux manual page](https://man7.org/linux/man-pages/man2/fork.2.html) The official documentation of the fork() function in Linux. Provides a thorough understanding of the function and more which are not covered in class specifically.
 
 * [Linux Process vs. Thread](https://www.baeldung.com/linux/process-vs-thread) An explanation on the differences between Linux's process and thread. Contains an overview on the inner-workings of threads and processes.
+
+* [Introduction of Deadlock in Operating System
+](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/) An easy-to-read introduction on the deadlock concept in Operating Systems. Not enough for comprehesive understanding, only serves as a brige for more thorough explanations in textbooks.
+
+* [Process Synchronization in OS](https://www.javatpoint.com/os-process-synchronization-introduction) This series provides a basic understanding on the big picture of synchronization in Operating Systems. Again, not enough for comprehesive understanding. Please refer to textbooks as your main source.
