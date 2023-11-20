@@ -46,3 +46,5 @@ Vim's official website. Vim is a text editor with many more functional & quality
 ](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/) An easy-to-read introduction on the deadlock concept in Operating Systems. Not enough for comprehesive understanding, only serves as a brige for more thorough explanations in textbooks.
 
 * [Process Synchronization in OS](https://www.javatpoint.com/os-process-synchronization-introduction) This series provides a basic understanding on the big picture of synchronization in Operating Systems. Again, not enough for comprehesive understanding. Please refer to textbooks as your main source.
+
+* [Chapter 5: Compiling a Cross-Toolchain - How to build Linux From Scratch (LFS) 12.0](https://www.youtube.com/watch?v=uggsnHSELos) This video is a walkthrough on Chapter 5 of LFS. It is very helpful for me especially because I can compare the output of the commands and make sure that they are correct. The book provides only the inputs without what the expected outputs are. The video fills this hole and reassures me that I am on the right track.
